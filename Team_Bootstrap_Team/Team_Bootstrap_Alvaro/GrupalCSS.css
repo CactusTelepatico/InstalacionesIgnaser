@@ -3,3 +3,23 @@
    height: 40px;
 
    }
+.row{
+
+  border: 3px red solid;
+  margin-top: 30px;
+
+
+
+}
+.container {
+  margin-top:60px; /* Whatever the height of your navbar is; the
+                             default is 50px */
+}
+
+
+
+.card-body {
+
+  height: 10px;
+
+}
