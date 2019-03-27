@@ -12,6 +12,14 @@
 }
 .navbar-brand{
   text-decoration-line: underline;
-  
+
   font-family: 'Oswald', sans-serif;
+}
+.contactCard{
+  color: black;
+}
+.contactCard:hover{
+  width: 110%;
+  height: 110%;
+  font
 }
