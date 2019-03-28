@@ -24,5 +24,9 @@ width: 200%;
 }
 #map-container-google-1{
   height: 500px;
-  
+
+}
+.img_launch{
+  width: 25%;
+  height: auto;
 }
