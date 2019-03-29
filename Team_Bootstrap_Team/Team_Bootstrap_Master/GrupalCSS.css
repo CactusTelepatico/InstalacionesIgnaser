@@ -33,3 +33,6 @@ width: 200%;
 .prod{
   color:white;
 }
+.prod:hover{
+  color:white;
+}
